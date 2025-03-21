@@ -35,11 +35,7 @@ const Sidebar: React.FC<SidebarProps> = ({ children }) => {
               <HiOutlineShoppingBag size={20} />
             </div>
           </Link>
-          <Link href="/">
-            <div className="bg-gray-100 hover:bg-gray-200 cursor-pointer my-4 p-3 rounded-2xl inline-block">
-             
-            </div>
-          </Link>
+       
         </div>
         <div></div>
       </div>
